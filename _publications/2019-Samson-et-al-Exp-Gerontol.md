@@ -5,11 +5,9 @@ permalink: /publication/2019-Samson-et-al-Exp-Gerontol
 excerpt: 
 date: 2019-10-01
 venue: Experimental Gerontology
-paperurl: 'https://ldsamson.github.io/files/Samson et al_2019_Frailty is associated with elevated CRP trajectories and higher numbers of.pdf'
+paperurl: 'https://ldsamson.github.io/files/Samson_et_al_2019_Frailty_is_associated_with_elevated_CRP_trajectories.pdf'
 citation: Samson, L. D., Boots, A. M. H., Verschuren, W. M. M., Picavet, H. S. J., Engelfriet, P., & Buisman, A.-M. (2019). Frailty is associated with elevated CRP trajectories and higher numbers of neutrophils and monocytes. *Experimental Gerontology, 125, 110674.* https://doi.org/10.1016/j.exger.2019.110674
 published: true
 ---
 
 [Download paper here](files/Samson et al_2019_Frailty is associated with elevated CRP trajectories and higher numbers of.pdf)
-
-Recommended citation: Samson, L. D., Boots, A. M. H., Verschuren, W. M. M., Picavet, H. S. J., Engelfriet, P., & Buisman, A.-M. (2019). Frailty is associated with elevated CRP trajectories and higher numbers of neutrophils and monocytes. *Experimental Gerontology, 125, 110674.* https://doi.org/10.1016/j.exger.2019.110674
