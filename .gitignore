@@ -1,2 +1,7 @@
 _site/
 
+.Rhistory
+
+/.Rproj.user/*
+
+.Rproj.user
