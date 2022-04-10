@@ -11,6 +11,7 @@ published: true
 
 Welcome to my personal website! 
 
-I am a medical doctor with a strong interest in healthcare research. I gained experience in biomedical data science and statistical programming during my PhD in epidemiology & immunology. 
+I am a medical doctor with a strong interest in biomedical research, data science and statistical programming. I gained research experience during my PhD in epidemiology & immunology, which I successfully defended at Groningen University (The Netherlands) at 1 September 2021.
 
-I defended my PhD successfully at 1 September at the Groningen University.
+If you have any questions, please do not hesitate to contact me!
+

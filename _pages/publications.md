@@ -15,4 +15,4 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-See my CV for a full list of publications. They will be listed here soon
+<sup>*</sup>: <i>shared first authorship</i>, <sup>#</sup>: <i>shared last authorship</i>
