@@ -12,4 +12,3 @@ published: true
 
 
 <img src="/images/ch5-fig-1B.png" width="50%"> <img src="/images/ch5-fig4-CD8.png" width="50%">
-
