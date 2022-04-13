@@ -142,6 +142,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - .Rproj.user/
 keep_files:
   - .git
   - .svn
